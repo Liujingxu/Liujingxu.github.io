@@ -62,7 +62,7 @@
         methods: {
           getQuery: function (word) {
               let that = this
-              this.$http.get("http://localhost:8080/get/" + word)
+              this.$http.get("http://39.105.45.51:8080/get/" + word)
                 .then(function (response) {
                    console.log(response)
                   if (response.data != '') {
@@ -80,7 +80,7 @@
 
           getTrans: function (key) {
             let that = this
-            this.$http.get("http://localhost:8080/translate" , {
+            this.$http.get("http://39.105.45.51:8080/translate" , {
               params: {
                 key: key
               }
