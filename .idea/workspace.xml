@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b9394c1-78a1-4ac2-9e3b-d6eaf49ab4d5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dist/static/css/app.a3dc5e7c9cf35779dd17811250961100.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/static/img/Liujx.12dbd61.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/static/js/app.0177fe06f407a4727324.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/static/js/app.0177fe06f407a4727324.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/css/app.a40952d294d74b3c8a8e06cefdc8a297.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/css/app.a3dc5e7c9cf35779dd17811250961100.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/css/app.a40952d294d74b3c8a8e06cefdc8a297.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/app.524069c5daa10f39704b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/app.524069c5daa10f39704b.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/manifest.3ad1d5771e9b13dbdad2.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/manifest.3ad1d5771e9b13dbdad2.js.map" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -95,20 +85,6 @@
               <item name="Liujingxu.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="dist" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Liujingxu.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Liujingxu.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Liujingxu.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Liujingxu.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -117,7 +93,7 @@
               <item name="dist" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="app.524069c5daa10f39704b.js" type="620a8d5e:NestingTreeNode" />
+              <item name="app.0177fe06f407a4727324.js" type="620a8d5e:NestingTreeNode" />
             </path>
           </expand>
           <select />
@@ -163,7 +139,7 @@
       <option name="presentableId" value="Default" />
       <updated>1568814529141</updated>
       <workItem from="1568814531611" duration="5516000" />
-      <workItem from="1569038200620" duration="718000" />
+      <workItem from="1569038200620" duration="1414000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1568814581452</created>
@@ -228,15 +204,21 @@
       <option name="project" value="LOCAL" />
       <updated>1568825636527</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="四六级App 修改Logo">
+      <created>1569038961000</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1569038961000</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6094000" />
+    <option name="totallyTimeSpent" value="6930000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966975" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -268,7 +250,8 @@
     <MESSAGE value="四六级App" />
     <MESSAGE value="四六级App 投入使用版" />
     <MESSAGE value="四六级App 修改bug 不输入中文查出全部bug" />
-    <option name="LAST_COMMIT_MESSAGE" value="四六级App 修改bug 不输入中文查出全部bug" />
+    <MESSAGE value="四六级App 修改Logo" />
+    <option name="LAST_COMMIT_MESSAGE" value="四六级App 修改Logo" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/build/build.js" />
@@ -297,6 +280,9 @@
           <caret line="1" column="52" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/static/js/app.0177fe06f407a4727324.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
